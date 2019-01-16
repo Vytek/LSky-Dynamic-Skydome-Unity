@@ -1,6 +1,7 @@
 # LSky-Dynamic-Skydome-Unity
 Dynamic skydome for Unity3d
 
+# Version 3.0.0
 
 # About
 
