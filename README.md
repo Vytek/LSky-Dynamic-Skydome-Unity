@@ -53,9 +53,6 @@ Dynamic skydome for Unity3d
 <img src="LSky Images/LSky_Image_21.png">
 <img src="LSky Images/LSky_Image_22.png">
 <img src="LSky Images/LSky_Image_23.png">
-<img src="LSky Images/LSky_Image_0.jpg">
-<img src="LSky Images/LSky_Image_1.jpg">
-<img src="LSky Images/LSky_Image_2.jpg">
 <img src="LSky Images/LSky_Image_3.jpg">
 <img src="LSky Images/LSky_Image_4.jpg">
 <img src="LSky Images/LSky_Image_5.jpg">
