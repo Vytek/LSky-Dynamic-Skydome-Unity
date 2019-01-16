@@ -27,6 +27,7 @@ Dynamic skydome for Unity3d
 - Sun and Moon Positions Based on DateTime.
 - DateTime support.
 - SystemDateTime Synchronization support.
+- Simple Clouds.
 - HDR/LDR Support.
 - Built In Render Support (Fordward and Deferred).
 - Reflection Probes Support.
