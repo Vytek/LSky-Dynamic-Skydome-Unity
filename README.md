@@ -11,7 +11,7 @@ Dynamic skydome for Unity3d
 # Features
 
 - Physically Based Atmosphere(Two Classics models)
-- Preehtam and hofman atmosphere.
+- Preehtam and holfman atmosphere.
 - GPU Gems2 based atmosphere(Sean O'neil)
 - Per Pixel and Per Vertex Atmosphere quality.
 - Moon Phases.
