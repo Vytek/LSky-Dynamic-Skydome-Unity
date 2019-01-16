@@ -41,7 +41,8 @@ Dynamic skydome for Unity3d
 - The gpu gems2 model is fixed in a perspective from the ground, does not currently support the aerial perspective, this may change in the future.
 - No fog tinted with the color of the sky at the moment.
 - There is no documentation for now.
-- The code may be misaligned in some IDE, I do not know why it appears like this in github
+- The code may be misaligned in some IDE, I do not know why it appears like this in github.
+- There are no access properties yet for the LSky_Skydome component.
 
 # Future
 
