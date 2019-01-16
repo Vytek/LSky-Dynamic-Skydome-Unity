@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 05f1264804ec94bf3ae8a22661b80f51
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_Resources: {fileID: 11400000, guid: d1e31632245da43a689429040083c152, type: 2}
+  - m_GalaxyCubemap: {instanceID: 0}
+  - m_StarsFieldCubemap: {instanceID: 0}
+  - m_StarsFieldNoiseCubemap: {instanceID: 0}
+  - m_MoonRenderTexture: {instanceID: 0}
+  - m_MoonTexture: {instanceID: 0}
+  - m_CloudsTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

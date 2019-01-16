@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eb83b2c4294348868d9623877d06aa9, type: 3}
+  m_Name: LSky_SkydomeResources
+  m_EditorClassIdentifier: 
+  sphereLOD0: {fileID: 4300000, guid: 411311cf3d1c11747bf38eee1b3fd3f7, type: 2}
+  sphereLOD1: {fileID: 4300000, guid: b250b63290f1a6248964185185ad678a, type: 2}
+  sphereLOD2: {fileID: 4300000, guid: b0df072daa3e6c84faf38e447a29a3ec, type: 2}
+  sphereLOD3: {fileID: 4300000, guid: 95183bccf1eebd840953facfaeed1317, type: 2}
+  atmosphereLOD0: {fileID: 4300000, guid: 411311cf3d1c11747bf38eee1b3fd3f7, type: 2}
+  atmosphereLOD1: {fileID: 4300000, guid: b250b63290f1a6248964185185ad678a, type: 2}
+  atmosphereLOD2: {fileID: 4300000, guid: a3f9bd9376cf74ad1a4556ddf95f08db, type: 3}
+  hemisphereLOD0: {fileID: 4300000, guid: a3f9bd9376cf74ad1a4556ddf95f08db, type: 3}
+  hemisphereLOD1: {fileID: 4300000, guid: de5d229bf252545369546d5f4348728e, type: 3}
+  hemisphereLOD2: {fileID: 4300000, guid: ce8cdc6904c974970883ac7f32c20caa, type: 3}
+  galaxyBackgroundShader: {fileID: 4800000, guid: f6fa5db599cc04d92915cd48ea5ce20c,
+    type: 3}
+  starsFieldShader: {fileID: 4800000, guid: 543c16582fb1c460cb03cd1ec696f262, type: 3}
+  moonShader: {fileID: 4800000, guid: d2d808a211176441c8266d08a10027fe, type: 3}
+  nearSpaceShader: {fileID: 4800000, guid: e7bed2078e1194b58b86d76b579a238f, type: 3}
+  atmosphereShader: {fileID: 4800000, guid: 960b872600df640b58d4b0fcf39dfc06, type: 3}
+  skyboxShader: {fileID: 4800000, guid: 695da244ff7b543f98f529e031912033, type: 3}
+  cloudsShader: {fileID: 4800000, guid: 0d072369091e240caaa96482e98596ab, type: 3}
+  galaxyBackgroundMaterial: {fileID: 2100000, guid: 22da3c5e7b3a805eab474039d49ea451,
+    type: 2}
+  starsFieldMaterial: {fileID: 2100000, guid: 41550f50486df0a46a5954105e0834ec, type: 2}
+  moonMaterial: {fileID: 2100000, guid: 2f8c38e6db01ec805884b82707d97937, type: 2}
+  nearSpaceMaterial: {fileID: 2100000, guid: 551ecdf6f8f33407680608176c22b6c0, type: 2}
+  atmosphereMaterial: {fileID: 2100000, guid: 906dd2b6f8f4349c4bf4ef12eae7b67d, type: 2}
+  skyboxMaterial: {fileID: 2100000, guid: f729d320373f94eaf92146f1432ae0f4, type: 2}
+  cloudsMaterial: {fileID: 2100000, guid: 87b10a3344224ed6b9be6cda0d328e66, type: 2}
