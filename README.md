@@ -49,7 +49,7 @@ Dynamic skydome for Unity3d
 - There will be no support for HDRP / LDRP / Job System / ECS.
 - I will try to give some support to this asset in my free time, but I do not promise to bring great features.
 
-# Celeste
+# Celeste Dynamic Sky MObile
 
 - I did not receive any type of feedback on celestial dynamic sky mobile, however the support to this asset continues from here: https://acwport.wixsite.com/celestedynamicsky/celeste-mobile-lock
 
